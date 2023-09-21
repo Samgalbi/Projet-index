@@ -1,0 +1,70 @@
+Document 0:
+tourisme: 6
+voyages: 2
+a: 4
+l: 4
+d: 5
+activite: 2
+visite: 2
+voyage: 3
+agrement: 2
+pays: 2
+autre: 2
+satisfaire: 2
+--------------------------
+Document 1:
+tourisme: 3
+destinations: 2
+loisirs: 2
+telles: 2
+visite: 2
+économique: 2
+--------------------------
+Document 2:
+espagne: 2
+destinations: 2
+pays: 2
+vous: 2
+france: 2
+budget: 2
+--------------------------
+Document 3:
+force: 2
+économique: 2
+l’espagne: 2
+tourisme: 2
+habitants: 2
+touristique: 2
+--------------------------
+Document 4:
+îles: 2
+seychelles: 3
+plongée: 2
+--------------------------
+Document 5:
+seychelles: 2
+l’archipel: 2
+l’océan: 2
+îles: 3
+elles: 2
+nature: 2
+touristique: 2
+--------------------------
+Document 6:
+tourisme: 2
+maldives: 5
+touristes: 3
+place: 2
+mondial: 2
+asie: 2
+sud: 2
+--------------------------
+Document 7:
+maldives: 3
+culture: 2
+traditions: 2
+fortement: 2
+l’océan: 2
+îles: 2
+récifs: 2
+--------------------------

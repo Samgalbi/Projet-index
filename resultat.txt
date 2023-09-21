@@ -1,0 +1,70 @@
+Document 0:
+tourisme: 2.12
+voyages: 1.55
+a: 1.91
+l: 1.91
+d: 2.03
+activite: 1.55
+visite: 1.55
+voyage: 1.76
+agrement: 1.55
+pays: 1.55
+autre: 1.55
+satisfaire: 1.55
+--------------------------
+Document 1:
+tourisme: 1.39
+destinations: 1.23
+loisirs: 1.23
+telles: 1.23
+visite: 1.23
+économique: 1.23
+--------------------------
+Document 2:
+espagne: 1.46
+destinations: 1.46
+pays: 1.46
+vous: 1.46
+france: 1.46
+budget: 1.46
+--------------------------
+Document 3:
+force: 1.13
+économique: 1.13
+l’espagne: 1.13
+tourisme: 1.13
+habitants: 1.13
+touristique: 1.13
+--------------------------
+Document 4:
+îles: 1.24
+seychelles: 1.41
+plongée: 1.24
+--------------------------
+Document 5:
+seychelles: 1.45
+l’archipel: 1.45
+l’océan: 1.45
+îles: 1.65
+elles: 1.45
+nature: 1.45
+touristique: 1.45
+--------------------------
+Document 6:
+tourisme: 1.22
+maldives: 1.59
+touristes: 1.38
+place: 1.22
+mondial: 1.22
+asie: 1.22
+sud: 1.22
+--------------------------
+Document 7:
+maldives: 1.24
+culture: 1.09
+traditions: 1.09
+fortement: 1.09
+l’océan: 1.09
+îles: 1.09
+récifs: 1.09
+--------------------------
